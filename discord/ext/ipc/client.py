@@ -2,7 +2,7 @@ import asyncio
 import logging
 
 import aiohttp
-from error_list import *
+from errors import *
 
 log = logging.getLogger(__name__)
 
