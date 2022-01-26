@@ -1,7 +1,7 @@
 import logging
 
 import aiohttp.web
-from errors import *
+from error_list import *
 
 log = logging.getLogger(__name__)
 
